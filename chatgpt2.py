@@ -136,6 +136,7 @@ def main():
     save_to_file(combos, OUTPUT_FILE)
 
     print(f"Saved {len(combos)} combinations to {OUTPUT_FILE}")
+    print('Exit')
 
 
 if __name__ == "__main__":
